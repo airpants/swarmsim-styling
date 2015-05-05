@@ -1,8 +1,30 @@
+/* 
+Should be optimized for use with Readable & Default White Bootstrap Themes, possible to use with others.
+*/
+
+.container {
+  background-color: rgba(40, 23, 223, 2); 
+/*  background-image: url('image.jpg');*/
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  color: #555;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-color: transparent;
+  cursor: default;
+}
+
+a {
+  color: #428bca;
+  text-decoration: none;
+}
+
 .page-title span {
   display:none;
 }
 .page-title:after {
-  content:'Test Simulator';
+  content:'Style Simulator';
 }
 .contact-title span {
   display:none;
