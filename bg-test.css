@@ -30,31 +30,12 @@ a {
   display:none;
 }
 .contact-title:after {
-  content:'Contact the Kitten Klicker Developer';
+  content:'Contact the Style Simulator Developer';
 }
 .footer:after {
   font-style:italic;
-  content:'Thanks to http://www.placekitten.com for the images!';
+  content:'Sprites and CSS styling by github/airpants, sprite art created with Piskelapp.com';
 }
-/* https://www.reddit.com/r/swarmsim/comments/310qs2/ascending_on_april_1/ */
-/* relevant classes: .tab-label, .selected-label, .list-label, .unselectedlist-label */
-.label-mutagen .label-label {
-  display:none;
-}
-.label-mutagen .label-suffix:before {
-  content:'mewtagen';
-}
-/* css capitalization fails for mutagen here, but not for premutagen, in chrome only. Works fine in FF, IE without this line. Browser bug? Whatever, fix it by hand. */
-.selected-label.label-mutagen .label-suffix:before {
-  content:'Mewtagen';
-}
-.label-premutagen .label-label {
-  display:none;
-}
-.label-premutagen .label-suffix:before {
-  content:'mewtagen (inactive)';
-}
-
 .desc-icon-resource {
   background-size:200px 200px;
   height:200px;width:200px;
@@ -110,7 +91,7 @@ a {
 }
 
 .icon-drone {
-  background-image: url("../static/kittens/200x200-2.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/d69f1407-f3a2-11e4-8f75-39996fd08e19.gif");
 }
 .icon-queen {
   background-image: url("../static/kittens/200x200-3.jpg");
