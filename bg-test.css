@@ -3,20 +3,20 @@ Should be optimized for use with Readable & Default White Bootstrap Themes, poss
 */
 
 .container {
-  background-color: rgba(40, 23, 223, 2); 
+  background-color: #21000A; 
 /*  background-image: url('image.jpg');*/
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-  color: #555;
-  background-color: #fff;
+  color: #B51F07;
+  background-color: #898C31;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
   cursor: default;
 }
 
 a {
-  color: #428bca;
+  color: #FF0051;
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ a {
 }
 .footer:after {
   font-style:italic;
-  content:'Sprites and CSS styling by github/airpants, sprite art created with Piskelapp.com';
+  content:'Sprites and CSS styling by github/airpants/swarmsim-styling, sprite art created with Piskelapp.com';
 }
 .desc-icon-resource {
   background-size:200px 200px;
