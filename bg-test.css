@@ -3,14 +3,14 @@ Should be optimized for use with Readable & Default White Bootstrap Themes, poss
 */
 
 .container {
-  background-color: #21000A; 
+  background-color: #A5A852; 
 /*  background-image: url('image.jpg');*/
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
   color: #B51F07;
   background-color: #898C31;
-  border: 1px solid #ddd;
+  border: 1px solid #21000A;
   border-bottom-color: transparent;
   cursor: default;
 }
