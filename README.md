@@ -15,4 +15,5 @@ All glory to the Overminds. I play [Swarm Simulator on Kongregate](http://www.ko
 
 2. Art Assets
   * I use [Piskel](http://www.piskelapp.com/) to create sprites and pixel art.
+    * [Larva](http://piskel-imgstore-b.appspot.com/img/86f94261-f3f3-11e4-a789-39996fd08e19.gif)
     * [Drone](http://piskel-imgstore-b.appspot.com/img/9463d3f8-f3a7-11e4-9833-39996fd08e19.gif)
