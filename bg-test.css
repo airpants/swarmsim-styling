@@ -8,9 +8,9 @@ Should be optimized for use with Readable & Default White Bootstrap Themes, poss
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-  color: #B51F07;
-  background-color: #898C31;
-  border: 1px solid #21000A;
+  color: #E4CCC4;
+  background-color: #260E06;
+  border: 1px dotted #C64C24;
   border-bottom-color: transparent;
   cursor: default;
 }
