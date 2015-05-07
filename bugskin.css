@@ -2,10 +2,10 @@
 Should be optimized for use with Readable & Default White Bootstrap Themes, possible to use with others.
 */
 
-.container {
+/* .container {
   background-color: #322525; 
   color: #ffffff;
-/*  background-image: url('image.jpg');*/
+  background-image: url('image.jpg');
 }
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
@@ -20,7 +20,7 @@ a {
   color: #FFA385;
   text-decoration: bold;
 }
-
+*/
 .page-title span {
   display:none;
 }
@@ -120,7 +120,7 @@ a {
 .icon-pantheon2 { /* hive network */
   background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
-.icon-pantheon3 { /* lesser hive mind */ /* placekitten's out of images! begin dupes. */
+.icon-pantheon3 { /* lesser hive mind */
   background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon4 { /* hive mind */
