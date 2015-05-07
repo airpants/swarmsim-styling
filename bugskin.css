@@ -103,12 +103,12 @@ a {
   background-image: url("http://piskel-imgstore-b.appspot.com/img/43d11b54-f4eb-11e4-b3e4-39996fd08e19.gif");
 }
 .icon-hivequeen {
-  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/feb41d1c-f4ec-11e4-8516-39996fd08e19.gif");
 }
-.icon-empress {
-  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
+.icon-empress { /* hive empress */
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/8d207c38-f4ef-11e4-929c-39996fd08e19.gif");
 }
-.icon-prophet {
+.icon-prophet { /* neuroprophet */
   background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-goddess { /* hive neuron */
