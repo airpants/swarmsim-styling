@@ -65,25 +65,21 @@ a {
   display:inline-block;
   border-radius: 5px;
 }
-.desc-meat:after {
-  /* http://stackoverflow.com/questions/17047694/add-line-break-to-before-or-after-pseudo-element-content */
-  white-space:pre-line;
-  content: "\AThis meat comes from mice the kittens catch. Kittens are not for eating. Please do not eat kitten meat."
-}
+
 .icon-meat {
-  background-image: url("../static/kittens/200x200-1.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-larva {
   background-image: url("http://piskel-imgstore-b.appspot.com/img/d6d6b65c-f4d7-11e4-853b-39996fd08e19.gif");
 }
 .icon-territory {
-  background-image: url("../static/kittens/200x200-9.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-energy {
-  background-image: url("../static/kittens/200x200-15.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutagen {
-  background-image: url("../static/kittens/200x200-12.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 /* special case: territory chart obscures float:left'ed image, so give it its own line */
 .desc-icon-resource.icon-territory {
@@ -95,147 +91,147 @@ a {
   background-image: url("http://piskel-imgstore-b.appspot.com/img/90310b30-f4dc-11e4-9073-39996fd08e19.gif");
 }
 .icon-queen {
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-nest {
-  background-image: url("../static/kittens/200x200-4.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-greaterqueen {
-  background-image: url("../static/kittens/200x200-5.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-hive {
-  background-image: url("../static/kittens/200x200-6.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-hivequeen {
-  background-image: url("../static/kittens/200x200-8.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-empress {
-  background-image: url("../static/kittens/200x200-10.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-prophet {
-  background-image: url("../static/kittens/200x200-11.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-goddess { /* hive neuron */
-  background-image: url("../static/kittens/200x200-13.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon { /* neural cluster */
-  background-image: url("../static/kittens/200x200-14.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon2 { /* hive network */
-  background-image: url("../static/kittens/200x200-16.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon3 { /* lesser hive mind */ /* placekitten's out of images! begin dupes. */
-  background-image: url("../static/kittens/200x200-2.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon4 { /* hive mind */
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-pantheon5 { /* arch-mind */
-  background-image: url("../static/kittens/200x200-4.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind {
-  background-image: url("../static/kittens/200x200-5.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind2 {
-  background-image: url("../static/kittens/200x200-6.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind3 {
-  background-image: url("../static/kittens/200x200-8.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind4 {
-  background-image: url("../static/kittens/200x200-10.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind5 {
-  background-image: url("../static/kittens/200x200-11.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-overmind6 {
-  background-image: url("../static/kittens/200x200-13.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 
 .icon-cocoon {
-  background-image: url("../static/kittens/200x200-2.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-achievements {
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 
 .icon-swarmling {
-  background-image: url("../static/kittens/200x200-2.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-stinger {
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-spider {
-  background-image: url("../static/kittens/200x200-4.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mosquito {
-  background-image: url("../static/kittens/200x200-5.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-locust {
-  background-image: url("../static/kittens/200x200-6.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-roach {
-  background-image: url("../static/kittens/200x200-8.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-giantspider {
-  background-image: url("../static/kittens/200x200-10.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-centipede {
-  background-image: url("../static/kittens/200x200-11.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-wasp {
-  background-image: url("../static/kittens/200x200-13.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-devourer {
-  background-image: url("../static/kittens/200x200-14.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-goon {
-  background-image: url("../static/kittens/200x200-16.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 
 .icon-mutanthatchery {
-  background-image: url("../static/kittens/200x200-7.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantbat {
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantclone {
-  background-image: url("../static/kittens/200x200-14.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantswarmwarp {
-  background-image: url("../static/kittens/200x200-5.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutanteach { /* meta-mutation */
-  background-image: url("../static/kittens/200x200-6.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantfreq {
-  background-image: url("../static/kittens/200x200-8.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantnexus { /* lepidoptera mutation */
-  background-image: url("../static/kittens/200x200-10.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantarmy { /* territory mutation */
-  background-image: url("../static/kittens/200x200-9.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantmeat {
-  background-image: url("../static/kittens/200x200-1.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-mutantrush {
-  background-image: url("../static/kittens/200x200-16.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gifg");
 }
 .icon-premutagen { /* inactive mutagen */
-  background-image: url("../static/kittens/200x200-14.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 
 .icon-nexus {
-  background-image: url("../static/kittens/200x200-16.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-nightbug {
-  background-image: url("../static/kittens/200x200-2.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-moth {
-  background-image: url("../static/kittens/200x200-10.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
 .icon-bat {
-  background-image: url("../static/kittens/200x200-3.jpg");
+  background-image: url("http://piskel-imgstore-b.appspot.com/img/ce0738a8-f4e1-11e4-9f4e-39996fd08e19.gif");
 }
