@@ -4,6 +4,7 @@ Should be optimized for use with Readable & Default White Bootstrap Themes, poss
 
 .container {
   background-color: #322525; 
+  color: #ffffff;
 /*  background-image: url('image.jpg');*/
 }
 
